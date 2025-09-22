@@ -1,6 +1,6 @@
  #include <iostream>
  #include <iostream>
-
+作業2
 int main() {
     double celsius;
     double fahrenheit;
